@@ -1,0 +1,34 @@
+{
+  "name": "docusign-rest-api",
+  "version": "1.0.0",
+  "description": "REST API for Docusign API.  This utilizes the Docusign NPM.",
+  "main": "server.js",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "moment": "^2.18.1",
+    "nconf": "^0.8.4",
+    "path": "^0.12.7",
+    "restify": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanderzone/docusign-rest-api.git"
+  },
+  "keywords": [
+    "Docusign",
+    "REST",
+    "API",
+    "API"
+  ],
+  "author": "Zander de Leon, zander.deleon@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanderzone/docusign-rest-api/issues"
+  },
+  "homepage": "https://github.com/zanderzone/docusign-rest-api#readme"
+}
